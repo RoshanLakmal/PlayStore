@@ -1,5 +1,6 @@
 # PlayStore
-
+###### Sample input-output
+```
 You have successfully bought item r1
 You have successfully bought item r3
 You have successfully bought item r3
@@ -24,3 +25,4 @@ John Doe ( u1 ) : This is a fantastic game!
 	Jane Doe ( u2 ) : I never liked this game!
 		John Doe ( u1 ) : Why not??
 Dave Roe ( u3 ) : The game crashes frequently
+```
